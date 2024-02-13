@@ -36,7 +36,7 @@
  
 <p align="center">
 <a href="https://github.com/97ish07/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ishara Wanninayeka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=97ish07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ishara Wanninayeka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=97ish07&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
 </a>
 </p>
  
